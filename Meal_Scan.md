@@ -40,7 +40,7 @@ Tag foods with Glycemic Index (GI) and Glycemic Load (GL)
 Special mode for diabetic users: flags high-GI meals; suggests lower-GI swaps
 Tracks cumulative daily GL — particularly useful for Type 2 diabetes management
 
-6. AR Plate Guide (Phase 2+)
+6. AR Plate Guide 
 
 Augmented Reality overlay guides the user to optimal scan position
 "Move camera higher" / "Separate the items" / "Better lighting needed"
